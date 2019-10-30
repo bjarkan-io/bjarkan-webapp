@@ -1,3 +1,3 @@
-# bjarkan-webapp
+<img src="./src/assets/images/logo-gradient.png" width="200px" />
 
-<img src="./src/assets/images/logo-gradient.png" width="100px" />
+# bjarkan-webapp
