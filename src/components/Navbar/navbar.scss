@@ -1,0 +1,14 @@
+@import "../../assets/styles/colors";
+@import "../../assets/styles/links";
+
+.navbar {
+	ul {
+		display: flex;
+		flex-direction: row;
+		list-style: none;
+
+		li {
+			float: left;
+		}
+	}
+}

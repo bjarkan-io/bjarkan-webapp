@@ -1,0 +1,7 @@
+@import "colors";
+
+a {
+	text-decoration: none;
+	transition: 0.2s;
+	color: &primaryColor;
+}
