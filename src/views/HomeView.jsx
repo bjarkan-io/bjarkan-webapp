@@ -1,5 +1,12 @@
 import React from "react"
 
-const HomeView = () => <div>Hello from HomeView</div>
+// Components
+import Test from "../components/Animations/Test"
+
+const HomeView = () => (
+	<div>
+		<Test />
+	</div>
+)
 
 export default HomeView
