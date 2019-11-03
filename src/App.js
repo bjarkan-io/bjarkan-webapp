@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar/Navbar"
 
 // Views
 import HomeView from "./views/HomeView"
+import AboutView from "./views/AboutView"
 
 const App = () => {
 	return (
@@ -14,6 +15,7 @@ const App = () => {
 				<Navbar />
 				<Switch>
 					<Route exact path='/' component={HomeView} />
+					<Route exact path='/about' component={AboutView} />
 				</Switch>
 			</Router>
 		</React.Fragment>
